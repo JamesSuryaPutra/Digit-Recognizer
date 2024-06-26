@@ -1,4 +1,5 @@
 # Digit Recognizer
+![header](https://github.com/JamesSuryaPutra/Digit-Recognizer/assets/155945814/7a6a8c01-b390-4883-8fc3-b60a06e3a56e)
 
 # Start here if...
 You have some experience with R or Python and machine learning basics, but you’re new to computer vision. This competition is the perfect introduction to techniques like neural networks using a classic dataset including pre-extracted features.
